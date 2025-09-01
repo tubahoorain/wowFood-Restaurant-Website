@@ -34,7 +34,7 @@
 
 <h2>📸 Screenshots</h2>
 <ul>
-  <li>Home with search bar</li><img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/1dd913f3-6015-4f42-8e38-9d205cc7ac17" />
+  <li>Home with search bar</li><img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/1dd913f3-6015-4f42-8e38-9d205cc7ac17" /><br><br>
 
   <li>Food category cards</li><img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/bd878b45-62fe-4e61-bd63-e4be11d3b63d" />
 
