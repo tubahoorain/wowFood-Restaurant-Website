@@ -24,20 +24,24 @@
 
 <h2>📱 Features</h2>
 <ul>
-  <li>✔️ Clean and modern UI</li>
-  <li>✔️ Fully responsive design</li>
-  <li>✔️ Hover effects and buttons</li>
-  <li>✔️ Functional contact form design (non-working backend)</li>
-  <li>✔️ Food ordering layout with call-to-action buttons</li>
-  <li>✔️ Social media icons in footer</li>
+  <li> Clean and modern UI</li>
+  <li> Fully responsive design</li>
+  <li> Hover effects and buttons</li>
+  <li> Functional contact form design (non-working backend)</li>
+  <li> Food ordering layout with call-to-action buttons</li>
+  <li> Social media icons in footer</li>
 </ul>
 
 <h2>📸 Screenshots</h2>
 <ul>
-  <li>Home with search bar</li>
-  <li>Food category cards</li>
-  <li>Food menu with price and order buttons</li>
-  <li>Contact form with image</li>
+  <li>Home with search bar</li><img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/1dd913f3-6015-4f42-8e38-9d205cc7ac17" />
+
+  <li>Food category cards</li><img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/bd878b45-62fe-4e61-bd63-e4be11d3b63d" />
+
+  <li>Food menu with price and order buttons</li><img width="1920" height="1080" alt="Screenshot (589)" src="https://github.com/user-attachments/assets/d6d07204-acc1-4a8c-96bc-28407a8838c6" />
+
+  <li>Contact form with image</li><img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/3c7e4328-0d50-465a-8d54-988775cc61d6" />
+
 </ul>
 
 <h2>🧑‍💻 Author</h2>
