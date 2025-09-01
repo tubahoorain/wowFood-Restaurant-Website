@@ -36,7 +36,8 @@
 <ul>
   <li>Home with search bar</li><br><br><img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/1dd913f3-6015-4f42-8e38-9d205cc7ac17" /><br><br><br>
 
-  <li>Food category cards</li><br><br><img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/bd878b45-62fe-4e61-bd63-e4be11d3b63d" /><br><br><br>
+  <li>Food category cards</li><br><br><img width="1920" height="1080" alt="Screenshot (591)" src="https://github.com/user-attachments/assets/251b119f-6de2-416a-a073-f3fece361afa" />
+   <br><br><br>
 
   <li>Food menu with price and order buttons</li><br><br><img width="1920" height="1080" alt="Screenshot (589)" src="https://github.com/user-attachments/assets/d6d07204-acc1-4a8c-96bc-28407a8838c6" /><br><br><br>
 
